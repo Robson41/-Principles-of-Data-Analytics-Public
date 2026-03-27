@@ -1,21 +1,8 @@
-# Principles of Data Analytics - Assessment
+# Principles of Data Analytics
 
-<<<<<<< HEAD
-This repository contains my solutions for the **Principles of Data Analytics** Summer 25/26 assessment.  
-=======
-This repository contains my solutions for the **Principles of Data Analytics** Summer 25/26 assessment.
->>>>>>> 42576ea3bf68618762951424d71767dff750dc57
-The main focus is on analyzing and visualizing data using Python, specifically using the **Palmer Penguins dataset**.
-
-# Principles of Data Analytics: Problems
-
-<<<<<<< HEAD
-This repository contains my submission for the **Principles of Data Analytics (Summer 25/26)** assessment.  
-=======
 This repository contains my submission for the **Principles of Data Analytics (Summer 25/26)** assessment.
 >>>>>>> 42576ea3bf68618762951424d71767dff750dc57
 It demonstrates my work on the set of problems outlined in the assessment brief, using Python and Jupyter notebooks.
-
 The goal of this repository is to provide a **reproducible and well-documented analysis workflow** for the problems, showcasing my understanding of data analytics concepts, data manipulation, visualization, and basic modelling techniques.
 
 ---
@@ -39,56 +26,7 @@ To reproduce the work in this repository:
 
 1. Clone the repository:
 
-bash
 git clone https://github.com/Robson41/-Principles-of-Data-Analytics-Public.git
-# Principles of Data Analytics: Problems
-
-<<<<<<< HEAD
-This repository contains my submission for the **Principles of Data Analytics (Summer 25/26)** assessment.  
-=======
-This repository contains my submission for the **Principles of Data Analytics (Summer 25/26)** assessment.
->>>>>>> 42576ea3bf68618762951424d71767dff750dc57
-It demonstrates my work on the set of problems outlined in the assessment brief, using Python and Jupyter notebooks.
-
-The goal of this repository is to provide a **reproducible and well-documented analysis workflow** for the problems, showcasing my understanding of data analytics concepts, data manipulation, visualization, and basic modelling techniques.
-
----
-
-## Contents
-
-1. Problem 1: Creating Your Repository
-2. Problem 2: The README.md
-3. Problem 3: .gitignore
-4. Problem 4: The Notebook Setup
-5. Problem 5: The Penguins Dataset
-6. Problem 6: Visualizing Distributions
-7. Problem 7: Investigating Relationships
-8. Problem 8: Modeling the Data
-
----
-
-## Setup Instructions
-
-To reproduce the work in this repository:
-
-1. Clone the repository:
-
-
-<<<<<<< HEAD
-git clone https://github.com/Robson41/-Principles-of-Data-Analytics-Public.git
-# Principles of Data Analytics: Problems
-
-This repository contains my submission for the **Principles of Data Analytics (Summer 25/26)** assessment.  
-=======
-
-git clone https://github.com/Robson41/-Principles-of-Data-Analytics-Public.git
-# Principles of Data Analytics: Problems
-
-This repository contains my submission for the **Principles of Data Analytics (Summer 25/26)** assessment.
->>>>>>> 42576ea3bf68618762951424d71767dff750dc57
-It demonstrates my work on the set of problems outlined in the assessment brief, using Python and Jupyter notebooks.
-
-The goal of this repository is to provide a **reproducible and well-documented analysis workflow** for the problems, showcasing my understanding of data analytics concepts, data manipulation, visualization, and basic modelling techniques.
 
 2. Navigate into the repository:
 Navigate into the repository:
@@ -150,17 +88,4 @@ This README satisfies the following requirements:
 - Explains the **repository structure** clearly.
 - Mentions the **tools and libraries** used.
 - Includes **references** for reproducibility and context.
-<<<<<<< HEAD
 
-
-
-
-
-
-
-
-
-
-
-=======
->>>>>>> 42576ea3bf68618762951424d71767dff750dc57

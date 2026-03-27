@@ -1,11 +1,19 @@
 # Principles of Data Analytics - Assessment
 
+<<<<<<< HEAD
 This repository contains my solutions for the **Principles of Data Analytics** Summer 25/26 assessment.  
+=======
+This repository contains my solutions for the **Principles of Data Analytics** Summer 25/26 assessment.
+>>>>>>> 42576ea3bf68618762951424d71767dff750dc57
 The main focus is on analyzing and visualizing data using Python, specifically using the **Palmer Penguins dataset**.
 
 # Principles of Data Analytics: Problems
 
+<<<<<<< HEAD
 This repository contains my submission for the **Principles of Data Analytics (Summer 25/26)** assessment.  
+=======
+This repository contains my submission for the **Principles of Data Analytics (Summer 25/26)** assessment.
+>>>>>>> 42576ea3bf68618762951424d71767dff750dc57
 It demonstrates my work on the set of problems outlined in the assessment brief, using Python and Jupyter notebooks.
 
 The goal of this repository is to provide a **reproducible and well-documented analysis workflow** for the problems, showcasing my understanding of data analytics concepts, data manipulation, visualization, and basic modelling techniques.
@@ -35,7 +43,11 @@ bash
 git clone https://github.com/Robson41/-Principles-of-Data-Analytics-Public.git
 # Principles of Data Analytics: Problems
 
+<<<<<<< HEAD
 This repository contains my submission for the **Principles of Data Analytics (Summer 25/26)** assessment.  
+=======
+This repository contains my submission for the **Principles of Data Analytics (Summer 25/26)** assessment.
+>>>>>>> 42576ea3bf68618762951424d71767dff750dc57
 It demonstrates my work on the set of problems outlined in the assessment brief, using Python and Jupyter notebooks.
 
 The goal of this repository is to provide a **reproducible and well-documented analysis workflow** for the problems, showcasing my understanding of data analytics concepts, data manipulation, visualization, and basic modelling techniques.
@@ -62,10 +74,18 @@ To reproduce the work in this repository:
 1. Clone the repository:
 
 
+<<<<<<< HEAD
 git clone https://github.com/Robson41/-Principles-of-Data-Analytics-Public.git
 # Principles of Data Analytics: Problems
 
 This repository contains my submission for the **Principles of Data Analytics (Summer 25/26)** assessment.  
+=======
+
+git clone https://github.com/Robson41/-Principles-of-Data-Analytics-Public.git
+# Principles of Data Analytics: Problems
+
+This repository contains my submission for the **Principles of Data Analytics (Summer 25/26)** assessment.
+>>>>>>> 42576ea3bf68618762951424d71767dff750dc57
 It demonstrates my work on the set of problems outlined in the assessment brief, using Python and Jupyter notebooks.
 
 The goal of this repository is to provide a **reproducible and well-documented analysis workflow** for the problems, showcasing my understanding of data analytics concepts, data manipulation, visualization, and basic modelling techniques.
@@ -75,7 +95,11 @@ Navigate into the repository:
 
 3. Create a virtual environment (optional but recommended):
 python3 -m venv venv
+<<<<<<< HEAD
 source venv/bin/activate  # On Windows use: venv\Scripts\activate
+=======
+source venv/bin/activate  # On Windows use: venv\Scripts\activate
+>>>>>>> 42576ea3bf68618762951424d71767dff750dc57
 
 4. Install the required Python packages:
 pip install -r requirements.txt
@@ -86,12 +110,21 @@ jupyter notebook problems.ipynb
 6. Repository Structure
 -Principles-of-Data-Analytics-Public/
 │
+<<<<<<< HEAD
 ├── problems.ipynb       # Main notebook with all solutions
 ├── README.md            # Project overview and setup instructions
 ├── requirements.txt     # Python packages required
 ├── .gitignore           # Files and folders to ignore in Git
 ├── data/                # Folder for datasets (e.g., penguins.csv)
 └── img/                 # Folder for images, plots, and diagrams
+=======
+├── problems.ipynb       # Main notebook with all solutions
+├── README.md            # Project overview and setup instructions
+├── requirements.txt     # Python packages required
+├── .gitignore           # Files and folders to ignore in Git
+├── data/                # Folder for datasets (e.g., penguins.csv)
+└── img/                 # Folder for images, plots, and diagrams
+>>>>>>> 42576ea3bf68618762951424d71767dff750dc57
 
 7. Notes
 All code is written in Python 3.
@@ -117,6 +150,7 @@ This README satisfies the following requirements:
 - Explains the **repository structure** clearly.
 - Mentions the **tools and libraries** used.
 - Includes **references** for reproducibility and context.
+<<<<<<< HEAD
 
 
 
@@ -128,3 +162,5 @@ This README satisfies the following requirements:
 
 
 
+=======
+>>>>>>> 42576ea3bf68618762951424d71767dff750dc57
